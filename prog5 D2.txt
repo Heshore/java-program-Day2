@@ -1,0 +1,7 @@
+class Main {
+    public static void main(String[] args) {
+     String str = "I Love Zoho";
+     String str1[] = str.split("");
+     System.out.println(str);
+    }
+}
